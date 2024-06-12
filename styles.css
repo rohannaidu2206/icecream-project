@@ -1,0 +1,19 @@
+.bg-gradient-green {
+    background-image: linear-gradient(rgb(170, 238, 194), white);
+}
+
+.img-chef, .img-customer, .img-stocks {
+    display: none;
+}
+
+.img-stocks {
+    width: 70%;
+}
+
+.img-sm {
+    width: 40%;
+}
+
+.img-md {
+    width: 60%;
+}
